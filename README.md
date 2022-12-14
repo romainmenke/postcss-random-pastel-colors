@@ -166,7 +166,7 @@ function randomColor() {
 }
 ```
 
-But unfortunately we now have plugin in an older style.
+Unfortunately we now have a plugin in an older style.
 This will not work well in the current ecosystem.
 
 It seems that ChatGPT is mostly trained on the large volume of older PostCSS plugins.
