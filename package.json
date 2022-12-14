@@ -1,5 +1,5 @@
 {
-  "name": "postcss-random-pastel-colors",
+  "name": "@rmenke/postcss-random-pastel-colors",
   "version": "1.0.0",
   "description": "Assign random pastel colors to color properties",
   "main": "index.js",
