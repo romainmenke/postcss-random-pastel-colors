@@ -1,5 +1,7 @@
 # PostCSS Random Pastel Colors
 
+[<img alt="npm version" src="https://img.shields.io/npm/v/@rmenke/postcss-random-pastel-colors.svg" height="20">](https://www.npmjs.com/package/@rmenke/postcss-random-pastel-colors)
+
 This plugin was created with ChatGPT.
 Below is the conversation that resulted in this plugin.
 
