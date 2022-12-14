@@ -1,0 +1,35 @@
+{
+  "name": "postcss-random-pastel-colors",
+  "version": "1.0.0",
+  "description": "Assign random pastel colors to color properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainmenke/postcss-random-pastel-colors.git"
+  },
+  "keywords": [
+    "postcss-plugin",
+    "chatgpt",
+    "color",
+    "random"
+  ],
+  "author": "Romain Menke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romainmenke/postcss-random-pastel-colors/issues"
+  },
+  "homepage": "https://github.com/romainmenke/postcss-random-pastel-colors#readme",
+  "devDependencies": {
+    "postcss": "^8.4.20"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
