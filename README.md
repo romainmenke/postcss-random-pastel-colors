@@ -222,5 +222,5 @@ When running the plugin it does this :
 
 ## Conclusion
 
-There is no conclusion here as this wan't scientific research. :D<br>
+There is no conclusion here as this wasn't scientific research. :D<br>
 I just typed stuff and a program wrote replies.
